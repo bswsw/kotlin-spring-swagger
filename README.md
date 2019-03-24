@@ -66,7 +66,7 @@ class SwaggerConfig {
 http://localhost:8080/swagger-ui.html
 
 
-### 3. Swagger 주요 애노테이션
+## 3. Swagger 주요 애노테이션
 
 ```kotlin
 @Api(description = "팀 관리 API")
